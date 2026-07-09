@@ -144,7 +144,7 @@ Delivery delays measurably erode customer satisfaction across Brazil, and about 
 
 ```
 olist-ecommerce-analysis/
-├── notebooks/        # main analysis notebook (Python + DuckDB)
+├── olist-ecommerce-analysis.ipynb       # main analysis notebook (Python + DuckDB)
 ├── sql/              # business queries, one .sql file each
 ├── dashboard/        # Tableau workbook and exported CSVs
 ├── images/           # charts and dashboard screenshots
